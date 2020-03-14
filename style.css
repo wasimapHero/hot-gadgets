@@ -1,0 +1,110 @@
+.container{
+    margin-bottom: 0px;
+    padding-left: 25px;
+}
+.navbar-brand img{
+    height: 60px;
+    margin-top: 0px;
+}
+.nav-item{
+    margin-left: 15px;
+    font-family: 'Baloo Chettan 2';
+}
+.nav-item a h6{
+    color: rgba(134, 133, 133, 0.986);
+    font-weight: 600;
+    font-size: 15px;
+}
+.buy-now-button{
+    background-color: black;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    padding: 10px 20px;
+}
+
+.texts p{
+    color: gray;
+}
+.texts h2,p,button{
+    margin-bottom: 30px;
+}
+.card-body{
+    text-align: center;
+}
+.card-body p{
+    color: gray;
+}
+.card img{
+    width: 230px;
+    height: 230px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.card{
+    border: 0px;
+    box-shadow: 1px 2px 15px 4px rgb(241, 239, 239);
+    border-radius: 15px;
+}
+.phone{
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
+.see-all h6{
+    color: orange;
+    text-align: right;
+    font-weight: 700;    
+    text-decoration: none;
+}
+.cat-height{
+    height: 800px;
+}
+.cats{
+    display: inline-block;
+}
+.bag{
+    float: left;
+    height: 250px;
+    width: 230px;
+    border: 0;
+    box-shadow: 3px 5px 20px 20px rgb(248, 246, 246);
+    margin-top: 70%;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+.beauty{
+    height: 250px;
+    width: 230px;
+    border: 0;
+    box-shadow: 3px 5px 20px 20px rgb(248, 246, 246);
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.shoe{
+    height: 250px;
+    width: 230px;
+    border: 0;
+    box-shadow: 3px 5px 20px 20px rgb(248, 246, 246);
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+.pale-order{
+    margin: auto;
+    margin-top: 100px;
+    padding: 0px;
+}
+.pale-order img{
+    height: 600px;
+}
+.bag-img, .shoe-img, .beauty-img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+#product{
+    margin-top: 100px;
+}
